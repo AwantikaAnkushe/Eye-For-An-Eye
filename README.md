@@ -61,28 +61,6 @@ flowchart TD
 | Pillow (PIL) | Image handling |
 | Git & GitHub | Version control and project hosting |
 
-## 📸 Application Preview
-
-Add screenshots of your actual application here so visitors can see how it works.
-
-<p align="center">
-  <em>Application home screen</em>
-</p>
-
-<!-- Add a screenshot named app-home.png inside the assets folder -->
-<p align="center">
-  <img src="assets/app-home.png" alt="Eye-For-an-Eye application home screen" width="800"/>
-</p>
-
-<p align="center">
-  <em>Prediction results</em>
-</p>
-
-<!-- Add a screenshot named prediction-result.png inside the assets folder -->
-<p align="center">
-  <img src="assets/prediction-result.png" alt="Example prediction screen" width="800"/>
-</p>
-
 ## 📂 Project Structure
 
 ```text
